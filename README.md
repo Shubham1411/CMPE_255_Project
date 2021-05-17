@@ -1,6 +1,6 @@
 # CMPE 255 Project
 
-Team Footbalytics:
+# Team Footbalytics:
 
 
 Folder: Datasets
